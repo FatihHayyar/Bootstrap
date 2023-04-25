@@ -1,0 +1,11 @@
+.btn-outline-success:hover{
+    background-color: rgb(13, 157, 240);
+    color: white;
+}
+.form-control{
+    min-width: 100px;
+}
+.img-fluid{
+    height: 50px;
+    width: auto;
+}
